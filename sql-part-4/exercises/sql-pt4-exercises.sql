@@ -1,6 +1,8 @@
 -- ==============================
 -- = EXERCISES: COMPLEX QUERIES =
 -- ==============================
+-- 
+-- brown.jules
 
 /* For the exercises, you are tasked with writing five queries that will help you delve deeper into BooksDB. You can choose whether you want to use a 
 correlated subquery, a nested subquery, the UNION operator, the INTERSECT operator, or the EXCEPT operator for each one. You may not use joins or add 
