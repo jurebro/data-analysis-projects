@@ -43,4 +43,4 @@ WHERE name = 'Apartment';
 
 -- While this has been fun, it is time to drop the table!
 
-DROP TABLE jules_brown.planned_makes
+DROP TABLE jules_brown.planned_makes;
