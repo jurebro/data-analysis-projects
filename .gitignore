@@ -2,3 +2,6 @@
 .ipynb_checkpoints
 venv/
 sql-part-1/exercises/sql-pt1-lecture.sql
+sql-part-5/studio/SQL-Part-5-Studio.ipynb
+data-and-variables/python_lecture_data_variables.py
+sql-part-3/exercises/sql-pt2-lectures.sql
